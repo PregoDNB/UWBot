@@ -50,7 +50,7 @@ The Bot employs basic security measures, including encryption of data in transit
 
 Your Rights
 
-You can request information about the data processed or request its removal by contacting the developer at [your-email@example.com]. Note that due to the transient nature of data processing, removal may not always be applicable.
+You can request information about the data processed or request its removal by contacting the developer at contact@undergroundwaves.be Note that due to the transient nature of data processing, removal may not always be applicable.
 
 Changes to This Policy
 
@@ -58,4 +58,4 @@ This policy may be updated periodically. Changes will be reflected here with the
 
 Contact
 
-For questions or concerns, contact [your-email@example.com].
+For questions or concerns, contact contact@undergroundwaves.be
